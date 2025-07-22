@@ -13,7 +13,7 @@
     overflow-x: scroll;
 }
 
-.card-list::-webkit-scrollbar {s
+.card-list::-webkit-scrollbar {
     display: none;
 }
 
