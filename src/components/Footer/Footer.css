@@ -1,4 +1,4 @@
-.footer{
+.footer {
     padding: 30px 4%;
     max-width: 1000px;
     margin: 0 auto;
@@ -10,12 +10,12 @@
     margin: 40px 0;
 }
 
-.footers-icons img{
+.footers-icons img {
     width: 30px;
     cursor: pointer;
 }
 
-.footer ul{
+.footer ul {
     display: grid;
     grid-template-columns: repeat(4, auto);
     gap: 15px;
