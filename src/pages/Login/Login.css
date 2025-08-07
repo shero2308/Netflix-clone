@@ -76,3 +76,15 @@
     width: 18px;
     height: 18px;
 }
+
+.form-switch{
+    color: #737373;
+    margin-top: 20px;
+}
+
+.login-form .form-switch span{
+    color: #fff;
+    cursor: pointer;
+    margin-left: 6px;
+    font-weight: 500;
+}
